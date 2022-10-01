@@ -1,0 +1,36 @@
+.main{
+    background-color: aqua;
+}
+.sub{
+    background-color: white;
+    color: navy;
+    margin: 25px;
+    padding: 10px;
+    width: 40%;
+    margin-top: 50px;
+    border-radius: 25px;
+    border: 5px solid lightcoral;
+}
+h1 {
+    background-color: blueviolet ;
+    padding: 5px;   
+    border-top-right-radius: 60px;
+    color: whitesmoke;
+}
+.bulboff{
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    background-color: gray;
+}
+.bulbon{
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+    background-color:gold;
+}
+.btn{
+    position: relative;
+    left: 100px;
+    top: 110px;
+}
